@@ -11,7 +11,7 @@
 // 4) currency_ruppess
 // 5) myVariable
 
-// LEGAL VARIABLE NAME:-
+// ILLEGAL VARIABLE NAME:-
 // 1) 123name
 // 2) user Name
 // 3) if / else (reserved word)
